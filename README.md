@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @MarineCrou
-- 👀 I’m interested in many things : Yoga 🧘🏼‍♀️, WaterColor 🎨, Pottery 🏺, business 📈 and coding , of course ! 
-- 🌱 Coding languages : HTML, CSS, JS, react & Python. 
-- 💞 I’m currently a freelance fullstack developer, (re)creating websites using react / next.js and headless CMSs. I'm also working on the side on my website, Unsung Women, a collaborative platform featuring women who've made an impact throughout history. fullstack, using python for the backend and react for the front.
-- 📫 How to reach me ? Email is the best way : marine.m.crouzet@gmail.com
+👋 Hi, I’m Marine!
+I’m a freelance fullstack developer passionate about bringing ideas to life on the web.
+
+💻 My current stack:
+HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Python, and headless CMSs like Strapi.
+
+🌟 What I do:
+I specialize in (re)creating dynamic websites using React/Next.js and headless CMSs.
+On the side, I’m working on Unsung Women (🚧 under construction): a collaborative platform celebrating the incredible women who’ve shaped history, built with a Python backend and React frontend.
+
+🎨 When I’m not coding:
+You’ll probably find me doing yoga 🧘🏼‍♀️, painting with watercolors 🎨, or making pottery 🏺.
+
+📬 Let’s connect:
+Feel free to reach out at marine.m.crouzet@gmail.com – whether to chat about coding, business, or a cool project you’d like to collaborate on.
 
 <!---
 MarineCrou/MarineCrou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
