@@ -1,17 +1,17 @@
-👋 Hi, I’m Marine!
+👋 Hi, I’m Marine!  <br>
 I’m a freelance fullstack developer passionate about bringing ideas to life on the web.
 
 💻 My current stack: <br>
 JavaScript, React, Next.js, Tailwind CSS, Python, and headless CMSs like Strapi.
 
-🌟 What I do:
+🌟 What I do:  <br>
 I specialize in (re)creating dynamic websites using React/Next.js and headless CMSs.
 On the side, I’m working on Unsung Women (🚧 under construction): a collaborative platform celebrating the incredible women who’ve shaped history, built with a Python backend and React frontend.
 
-🎨 When I’m not coding:
+🎨 When I’m not coding:  <br>
 You’ll probably find me doing yoga 🧘🏼‍♀️, painting with watercolors 🎨, or making pottery 🏺.
 
-📬 Let’s connect:
+📬 Let’s connect: <br>
 Feel free to reach out at marine.m.crouzet@gmail.com – whether to chat about coding, business, or a cool project you’d like to collaborate on.
 
 <!---
