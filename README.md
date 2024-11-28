@@ -1,8 +1,8 @@
 👋 Hi, I’m Marine!
 I’m a freelance fullstack developer passionate about bringing ideas to life on the web.
 
-💻 My current stack:
-HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Python, and headless CMSs like Strapi.
+💻 My current stack: <br>
+JavaScript, React, Next.js, Tailwind CSS, Python, and headless CMSs like Strapi.
 
 🌟 What I do:
 I specialize in (re)creating dynamic websites using React/Next.js and headless CMSs.
