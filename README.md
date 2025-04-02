@@ -9,7 +9,7 @@ I specialize in (re)creating dynamic websites using React/Next.js and headless C
 On the side, I’m working on Unsung Women (🚧 under construction): a collaborative platform celebrating the incredible women who’ve shaped history, built with a Python backend and React frontend.
 
 🎨 When I’m not coding:  <br>
-You’ll probably find me doing yoga 🧘🏼‍♀️, cycling, painting with watercolors 🎨, or making pottery 🏺.
+You’ll probably find me doing yoga 🧘🏼‍♀️, cycling, painting 🎨, playing the ukulele or making pottery 🏺.
 
 📬 Let’s connect: <br>
 Feel free to reach out at marine.m.crouzet@gmail.com – whether to chat about coding, business, or a cool project you’d like to collaborate on.
